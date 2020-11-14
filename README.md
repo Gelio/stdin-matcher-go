@@ -13,3 +13,8 @@ to finish the initial compilation, even though the process continues.
 webpack --mode development | ./stdin-matcher-go Compilation successful
 ```
 
+## Building
+
+```sh
+go build
+```
